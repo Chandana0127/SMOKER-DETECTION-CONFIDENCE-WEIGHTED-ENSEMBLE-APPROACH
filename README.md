@@ -31,13 +31,10 @@ Kaggle Playground Series S3E24 - 159,256 health records with 22 biomarker featur
 ```
 ├── SMOKER_DETECTION_CONFIDENCE_WEIGHTED_ENSEMBLE_APPROACH.ipynb
 ├── SMOKER_DETECTION_CONFIDENCE-WEIGHTED_ENSEMBLE_APPROACH.pdf
-├── smoker_detection.py
-├── data_mining_try2_.py
-├── outputs/
-│   ├── ConfusionMatrix.png
-│   ├── Roc.png
-│   ├── heatmap.png
-│   └── Pipeline.png
+├── ConfusionMatrix.png
+├── Roc.png
+├── heatmap.png
+├── Pipeline.png
 └── README.md
 ```
 
